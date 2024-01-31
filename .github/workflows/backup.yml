@@ -42,8 +42,11 @@ jobs:
 
     - name: Clone Repo
       run: |
-        grep -E "^\| [0-9]" README.md | awk -F '|' '{print $3 $4}' | while read a b; do
+        grep -E "^\| [0-9]" README.md | awk -F '|' '{print $3 $4 $5}' | while read a b c; do
           if [ "$a" = "" -o "$b" = "" ]; then
+            continue
+          fi
+          if [ "$c" != 'true' ]; then
             continue
           fi
           echo "Clone Repo [ $a <= $b ]"
