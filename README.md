@@ -5,3 +5,4 @@
 | 1 | Xray-core | https://github.com/XTLS/Xray-core.git | true |  |
 | 2 | MobaXterm-keygen | https://github.com/flygon2018/MobaXterm-keygen.git | true |  |
 | 3 | mihomo | https://github.com/MetaCubeX/mihomo.git | true |  |
+| 4 | NeteaseCloudMusicApi | https://github.com/XiangZi7/NeteaseCloudMusicApi.git | true |  |

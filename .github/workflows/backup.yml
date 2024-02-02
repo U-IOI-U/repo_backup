@@ -51,8 +51,10 @@ jobs:
           fi
           echo "Clone Repo [ $a <= $b ]"
           git clone -q "$b" "$a"
-          echo "Tar Repo [ $a ]"
-          tar -cf /workdir/$a.tar $a
+          if [ "$?" = "0" ]; then
+            echo "Tar   Repo [ $a ]"
+            tar -cf /workdir/$a.tar $a
+          fi
         done
 
     - name: Compression Repo
