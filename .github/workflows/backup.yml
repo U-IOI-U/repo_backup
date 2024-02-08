@@ -5,9 +5,9 @@ name: Backup Repo
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on:
+  workflow_dispatch:
   schedule:
     - cron: 0 1 * * 1
-  workflow_dispatch:
 
 env:
   TZ: Asia/Shanghai
@@ -18,7 +18,7 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-22.04
-    if: github.event.repository.owner.id == github.event.sender.id
+    if: github.event.repository.owner.id == github.event.sender.id || github.event_name == 'schedule'
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
