@@ -3,6 +3,7 @@
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | MobaXterm-keygen | https://github.com/flygon2018/MobaXterm-keygen.git | true |  |
+| 1 | MobaXterm-GenKey | https://github.com/malaohu/MobaXterm-GenKey.git | false |  |
 | 2 | Xray-core | https://github.com/XTLS/Xray-core.git | true |  |
 | 3 | mihomo | https://github.com/MetaCubeX/mihomo.git | true |  |
 | 4 | clash-verge | https://github.com/clash-next/clash-verge.git | true |  |
