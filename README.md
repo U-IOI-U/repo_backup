@@ -20,6 +20,7 @@
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | GeoLite.mmdb | https://github.com/P3TERX/GeoLite.mmdb.git | false |  |
+| 2 | proxypool | https://github.com/asdlokj1qpi23/proxypool.git | false |  |
 
 ### Cloudflare
 | num | repo | link | backup | desc |
@@ -50,12 +51,16 @@
 | --- | ---- | ---- | ------ | ---- |
 | 1 | wtv | https://github.com/biancangming/wtv.git | false |  |
 | 2 | iptv-sources | https://github.com/HerbertHe/iptv-sources.git | false |  |
+| 3 | 2hacc | https://github.com/2hacc/TVBox.git | false | TVBox源 |
+| 4 | gaotianliuyun | https://github.com/gaotianliuyun/gao.git | false | TVBox源 |
+
 
 ### 阅读
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | legado | https://github.com/gedoor/legado.git | true | 阅读 |
 | 2 | shuyuan | https://github.com/shidahuilang/shuyuan.git | false | 书源 |
+| 3 | uncle-novel | https://github.com/uncle-novel/uncle-novel.git | false | Uncle 小说 |
 
 ### jellyfin
 | num | repo | link | backup | desc |
@@ -64,6 +69,7 @@
 | 2 | jellyfin-android | https://github.com/jellyfin/jellyfin-android.git | false |  |
 | 3 | JellyfinPluginDouban | https://github.com/Xzonn/JellyfinPluginDouban.git | false |  |
 | 4 | jellyfin-plugin-opendouban | https://github.com/caryyu/jellyfin-plugin-opendouban.git | false |  |
+| 5 | findroid | https://github.com/jarnedemeulemeester/findroid.git | false |  |
 
 ### 黑群晖
 | num | repo | link | backup | desc |
@@ -97,4 +103,9 @@
 | 5 | Microsoft-Activation-Scripts | https://github.com/massgravel/Microsoft-Activation-Scripts.git | true |  |
 | 6 | Awesome-Redteam | https://github.com/Threekiii/Awesome-Redteam.git | false | 一个攻防知识仓库 |
 | 7 | GKD | https://github.com/gkd-kit/gkd.git | false | 李跳跳类 |
+| 8 | EasySpider | https://github.com/NaiboWang/EasySpider.git | false | 可视化爬虫 |
+| 9 | py12306 | https://github.com/pjialin/py12306.git | false | 12306抢票 |
+| 10 | MusicFree | https://github.com/maotoumao/MusicFree.git | false |  |
+| 11 | LocalSend | https://github.com/localsend/localsend.git | false |  |
+| 12 | IDM-Activation-Script | https://github.com/lstprjct/IDM-Activation-Script.git | true | IDM |
 
