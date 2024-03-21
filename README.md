@@ -20,6 +20,7 @@
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | GeoLite.mmdb | https://github.com/P3TERX/GeoLite.mmdb.git | false |  |
+| 2 | proxypool | https://github.com/asdlokj1qpi23/proxypool.git | false |  |
 
 ### Cloudflare
 | num | repo | link | backup | desc |
@@ -50,6 +51,9 @@
 | --- | ---- | ---- | ------ | ---- |
 | 1 | wtv | https://github.com/biancangming/wtv.git | false |  |
 | 2 | iptv-sources | https://github.com/HerbertHe/iptv-sources.git | false |  |
+| 3 | 2hacc | https://github.com/2hacc/TVBox.git | false | TVBox源 |
+| 4 | gaotianliuyun | https://github.com/gaotianliuyun/gao.git | false | TVBox源 |
+
 
 ### 阅读
 | num | repo | link | backup | desc |
