@@ -15,6 +15,10 @@
 | 4 | clash-meta | https://github.com/clash-next/clash-meta.git | true |  |
 | 5 | clash | https://github.com/clash-next/clash.git | true |  |
 | 6 | ClashForAndroid | https://github.com/xuhaoyang/ClashForAndroid.git | true |  |
+| 7 | MihomoForAndroid | https://github.com/MetaCubeX/ClashMetaForAndroid.git | true |  |
+| 8 | sing-box | https://github.com/SagerNet/sing-box.git | true |  |
+| 9 | SingboxForAndroid | https://github.com/SagerNet/sing-box-for-android.git | true |  |
+| 10 | hiddify-next | https://github.com/hiddify/hiddify-next.git | true |  |
 
 ### Proxypool
 | num | repo | link | backup | desc |
