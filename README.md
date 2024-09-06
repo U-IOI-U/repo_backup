@@ -95,7 +95,9 @@
 | --- | ---- | ---- | ------ | ---- |
 | 1 | OpenCore | https://github.com/acidanthera/OpenCorePkg.git | false |  |
 | 2 | NootedRed | https://github.com/ChefKissInc/NootedRed.git | false |  |
-| 3 | Beelink-SER5-Hackintosh | https://github.com/daliansky/Beelink-SER5-Hackintosh.git | false |  |
+| 3 | GLFriend | https://github.com/ovoME/GLFriend.git | false |  |
+| 4 | AMDHelper | https://github.com/alvindimas05/AMDHelper.git | false |  |
+| 5 | Beelink-SER5-Hackintosh | https://github.com/daliansky/Beelink-SER5-Hackintosh.git | false |  |
 
 ### Other
 | num | repo | link | backup | desc |
@@ -110,6 +112,7 @@
 | 8 | EasySpider | https://github.com/NaiboWang/EasySpider.git | false | 可视化爬虫 |
 | 9 | py12306 | https://github.com/pjialin/py12306.git | false | 12306抢票 |
 | 10 | MusicFree | https://github.com/maotoumao/MusicFree.git | false |  |
-| 11 | LocalSend | https://github.com/localsend/localsend.git | false |  |
-| 12 | IDM-Activation-Script | https://github.com/lstprjct/IDM-Activation-Script.git | true | IDM |
+| 11 | LxMuisc | https://github.com/lyswhut/lx-music-mobile.git | false |  |
+| 12 | LocalSend | https://github.com/localsend/localsend.git | false |  |
+| 13 | IDM-Activation-Script | https://github.com/lstprjct/IDM-Activation-Script.git | true | IDM |
 
