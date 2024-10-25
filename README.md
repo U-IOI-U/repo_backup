@@ -4,21 +4,21 @@
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | MobaXterm-keygen | https://github.com/flygon2018/MobaXterm-keygen.git | true |  |
-| 2 | MobaXterm-GenKey | https://github.com/malaohu/MobaXterm-GenKey.git | false |  |
+| 2 | MobaXterm-GenKey | https://github.com/malaohu/MobaXterm-GenKey.git | true |  |
 
 ### v2ray & clash & mihomo
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | Xray-core | https://github.com/XTLS/Xray-core.git | true |  |
 | 2 | mihomo | https://github.com/MetaCubeX/mihomo.git | true |  |
-| 3 | clash-verge | https://github.com/clash-next/clash-verge.git | true |  |
-| 4 | clash-meta | https://github.com/clash-next/clash-meta.git | true |  |
-| 5 | clash | https://github.com/clash-next/clash.git | true |  |
-| 6 | ClashForAndroid | https://github.com/xuhaoyang/ClashForAndroid.git | true |  |
+| 3 | clash-verge | https://github.com/clash-next/clash-verge.git | false |  |
+| 4 | clash-meta | https://github.com/clash-next/clash-meta.git | false |  |
+| 5 | clash | https://github.com/clash-next/clash.git | false |  |
+| 6 | ClashForAndroid | https://github.com/xuhaoyang/ClashForAndroid.git | false |  |
 | 7 | MihomoForAndroid | https://github.com/MetaCubeX/ClashMetaForAndroid.git | true |  |
 | 8 | sing-box | https://github.com/SagerNet/sing-box.git | true |  |
-| 9 | SingboxForAndroid | https://github.com/SagerNet/sing-box-for-android.git | true |  |
-| 10 | hiddify-next | https://github.com/hiddify/hiddify-next.git | true |  |
+| 9 | SingboxForAndroid | https://github.com/SagerNet/sing-box-for-android.git | false |  |
+| 10 | hiddify-next | https://github.com/hiddify/hiddify-next.git | false |  |
 
 ### Proxypool
 | num | repo | link | backup | desc |
@@ -34,7 +34,7 @@
 ### NeteaseCloudMusic
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
-| 1 | NeteaseCloudMusicApi | https://github.com/XiangZi7/NeteaseCloudMusicApi.git | true |  |
+| 1 | NeteaseCloudMusicApi | https://github.com/XiangZi7/NeteaseCloudMusicApi.git | false |  |
 
 ### aria2
 | num | repo | link | backup | desc |
