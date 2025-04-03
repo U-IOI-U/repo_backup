@@ -81,6 +81,7 @@
 | 1 | tinycore-redpill | https://github.com/pocopico/tinycore-redpill.git | false |  |
 | 2 | arpl | https://github.com/fbelavenuto/arpl.git | false |  |
 | 3 | Redpill_Build | https://github.com/chenxudong2020/Redpill_Build.git | false |  |
+| 4 | Q3-redpill | https://github.com/PeterSuh-Q3/tinycore-redpill.git | false |  |
 
 ### Armbian
 | num | repo | link | backup | desc |
@@ -115,4 +116,10 @@
 | 11 | LxMuisc | https://github.com/lyswhut/lx-music-mobile.git | false |  |
 | 12 | LocalSend | https://github.com/localsend/localsend.git | false |  |
 | 13 | IDM-Activation-Script | https://github.com/lstprjct/IDM-Activation-Script.git | true | IDM |
-
+| 14 | cobalt | https://github.com/imputnet/cobalt.git | false |  |
+| 15 | immich | https://github.com/immich-app/immich.git | false |  |
+| 16 | immich | https://github.com/immich-app/immich.git | false |  |
+| 17 | deskreen | https://github.com/pavlobu/deskreen.git | false |  |
+| 18 | firefly | https://github.com/Safe3/firefly.git | false |  |
+| 19 | FreeAskInternet | https://github.com/nashsu/FreeAskInternet.git | false |  |
+| 20 | midea_ac_lan | https://github.com/georgezhao2010/midea_ac_lan.git | false |  |
