@@ -91,6 +91,14 @@
 | 3 | armbian-n1-userpatch | https://github.com/whiler/armbian-n1-userpatch.git | false |  |
 | 4 | amlogic-s9xxx-armbian | https://github.com/ophub/amlogic-s9xxx-armbian.git | false |  |
 
+### Openwrt
+| num | repo | link | backup | desc |
+| --- | ---- | ---- | ------ | ---- |
+| 1 | immortalwrt | https://github.com/immortalwrt/immortalwrt.git | false | Immortalwrt |
+| 2 | kkstone | https://github.com/kkstone/Actions-OpenWrt-RAX3000Q.git | false | RAX3000QY |
+| 3 | sfxfs | https://github.com/sfxfs/rax3000qy-OpenWrt.git | false | RAX3000QY |
+| 4 | hackasc | https://github.com/hackasc/libwrt-zn-m2.git | false | ZN-M2 |
+
 ### 黑苹果
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
