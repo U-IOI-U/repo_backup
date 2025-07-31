@@ -3,7 +3,7 @@
 ### MobaXterm
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
-| 1 | MobaXterm-keygen | https://github.com/flygon2018/MobaXterm-keygen.git | true |  |
+| 1 | MobaXterm-keygen | https://github.com/flygon2018/MobaXterm-keygen.git | false |  |
 | 2 | MobaXterm-GenKey | https://github.com/malaohu/MobaXterm-GenKey.git | true |  |
 
 ### v2ray & clash & mihomo
