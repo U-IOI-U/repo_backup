@@ -74,6 +74,9 @@
 | 3 | JellyfinPluginDouban | https://github.com/Xzonn/JellyfinPluginDouban.git | false |  |
 | 4 | jellyfin-plugin-opendouban | https://github.com/caryyu/jellyfin-plugin-opendouban.git | false |  |
 | 5 | findroid | https://github.com/jarnedemeulemeester/findroid.git | false |  |
+| 6 | Ghosten-Player | https://github.com/GhostenEditor/Ghosten-Player.git | false |  |
+| 7 | Moonfin | https://github.com/Moonfin-Client/AndroidTV-FireTV.git | false |  |
+| 8 | elefin | https://github.com/flex36ty/elefin.git | false |  |
 
 ### 黑群晖
 | num | repo | link | backup | desc |
@@ -126,8 +129,7 @@
 | 13 | IDM-Activation-Script | https://github.com/lstprjct/IDM-Activation-Script.git | true | IDM |
 | 14 | cobalt | https://github.com/imputnet/cobalt.git | false |  |
 | 15 | immich | https://github.com/immich-app/immich.git | false |  |
-| 16 | immich | https://github.com/immich-app/immich.git | false |  |
-| 17 | deskreen | https://github.com/pavlobu/deskreen.git | false |  |
-| 18 | firefly | https://github.com/Safe3/firefly.git | false |  |
-| 19 | FreeAskInternet | https://github.com/nashsu/FreeAskInternet.git | false |  |
-| 20 | midea_ac_lan | https://github.com/georgezhao2010/midea_ac_lan.git | false |  |
+| 16 | deskreen | https://github.com/pavlobu/deskreen.git | false |  |
+| 17 | firefly | https://github.com/Safe3/firefly.git | false |  |
+| 18 | FreeAskInternet | https://github.com/nashsu/FreeAskInternet.git | false |  |
+| 19 | midea_ac_lan | https://github.com/georgezhao2010/midea_ac_lan.git | false |  |
