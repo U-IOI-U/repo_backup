@@ -10,15 +10,16 @@
 | num | repo | link | backup | desc |
 | --- | ---- | ---- | ------ | ---- |
 | 1 | Xray-core | https://github.com/XTLS/Xray-core.git | true |  |
-| 2 | mihomo | https://github.com/MetaCubeX/mihomo.git | true |  |
-| 3 | clash-verge | https://github.com/clash-next/clash-verge.git | false |  |
-| 4 | clash-meta | https://github.com/clash-next/clash-meta.git | false |  |
-| 5 | clash | https://github.com/clash-next/clash.git | false |  |
-| 6 | ClashForAndroid | https://github.com/xuhaoyang/ClashForAndroid.git | false |  |
-| 7 | MihomoForAndroid | https://github.com/MetaCubeX/ClashMetaForAndroid.git | true |  |
-| 8 | sing-box | https://github.com/SagerNet/sing-box.git | true |  |
-| 9 | SingboxForAndroid | https://github.com/SagerNet/sing-box-for-android.git | false |  |
-| 10 | hiddify-next | https://github.com/hiddify/hiddify-next.git | false |  |
+| 2 | V2rayNG | https://github.com/2dust/v2rayNG.git | true |  |
+| 3 | mihomo | https://github.com/MetaCubeX/mihomo.git | true |  |
+| 4 | clash-verge | https://github.com/clash-next/clash-verge.git | false |  |
+| 5 | clash-meta | https://github.com/clash-next/clash-meta.git | false |  |
+| 6 | clash | https://github.com/clash-next/clash.git | false |  |
+| 7 | ClashForAndroid | https://github.com/xuhaoyang/ClashForAndroid.git | false |  |
+| 8 | MihomoForAndroid | https://github.com/MetaCubeX/ClashMetaForAndroid.git | true |  |
+| 9 | sing-box | https://github.com/SagerNet/sing-box.git | true |  |
+| 10 | SingboxForAndroid | https://github.com/SagerNet/sing-box-for-android.git | false |  |
+| 11 | hiddify-next | https://github.com/hiddify/hiddify-next.git | false |  |
 
 ### Proxypool
 | num | repo | link | backup | desc |
